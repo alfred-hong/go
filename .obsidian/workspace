@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "8479f182fa9e83fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cd12b9940ec4145",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GOPATH和GOmod.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e79a766a556be428",
+    "type": "split",
+    "children": [
+      {
+        "id": "d65577527e46e4aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db9e22685495a115",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5e5a8f845b089f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ead05d4130affc79",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cebb29bc48824ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bac8460a001100f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GOPATH和GOmod.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2cd12b9940ec4145",
+  "lastOpenFiles": [
+    "GOPATH和GOmod.md",
+    "b站/包.md",
+    "b站/并发Goroutine.md",
+    "b站/开发规范实践指南.md",
+    "b站/三方sqlx包.md",
+    "b站/go.md",
+    "b站/log.日志标准库.md",
+    "b站/httpCS.md"
+  ]
+}
